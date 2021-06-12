@@ -9,7 +9,7 @@ class TlxConan(ConanFile):
     name = "tlx"
     description = "tlx is a collection of C++ helpers and extensions " \
                   "universally needed, but not found in the STL."
-    license = "LGPL-3.0-or-later"
+    license = "BSL-1.0"
     topics = ("tlx", "data-structure", "algorithm")
     homepage = "https://github.com/tlx/tlx"
     url = "https://github.com/conan-io/conan-center-index"
